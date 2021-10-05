@@ -19,9 +19,10 @@ The following are the upgraded Mac Pro 6.1 platforms specs:
 ## Build
 
 Assembly files in this repository can be assembled as followed:
-'''bash
+
+```bash
 as -g -o $filename.o filename.s && ld -o $filename $filename.o && ./filename
-'''
+```
 
 ## License
 
