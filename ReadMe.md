@@ -6,7 +6,7 @@ This repository is a collection of various test files for my Intel Xeon E5-2697 
 
 ## Contents
 
-(/functions) - Recusrive functions to test runtime, parallelization of calculations & computing.
+[Functions](/functions/) - Recusrive functions to test runtime & calculation subroutines.
 
 
 
