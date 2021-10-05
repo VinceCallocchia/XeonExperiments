@@ -4,6 +4,13 @@ This repository is a collection of various test files for my Intel Xeon E5-2697 
 
 ![12-core Intel Xeon Processor](/images/12-core_Intel_Xeon_Processor.png)
 
+## Contents
+
+(/functions) - Recusrive functions to test runtime, parallelization of calculations & computing.
+
+
+
+
 ## Specifications
 
 The following are the test platforms specs:
