@@ -6,7 +6,7 @@ This repository is a collection of various test files for my Intel Xeon E5-2697 
 
 ## Specifications
 
-The following are the upgraded Mac Pro 6.1 platforms specs:
+The following are the test platforms specs:
 
 1. 2.7GHz 12-core Intel Xeon processor with 30MB L3 cache.
 2. Samsung 64GB (4x16GB) 1866MHz DDR3 RAM.
