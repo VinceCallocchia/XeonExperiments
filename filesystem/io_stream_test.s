@@ -8,8 +8,8 @@
 .equ SYS_EXIT,  60
 
 # options for open
-.equ O_RDONLY, 0
-.equ O_CREAT_WRONLY_TRUNC, 03101    # create, write-only, truncate
+.equ READ_ONLY, 0
+.equ WRITE_ONLY_TRUNC, 03101    # create, write-only, truncate
 
 # end of file result status
 .equ END_OF_FILE, 0
