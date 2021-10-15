@@ -8,12 +8,13 @@ message:
 .section .text
 
 # system calls
-.equ SYS_OPEN, 2
-.equ SYS_EXIT, 60
-.equ SYS_CLOSE, 3
 .equ SYS_WRITE, 1
+.equ SYS_OPEN, 2
+.equ SYS_CLOSE, 3
+.equ SYS_EXIT, 60
 
-.equ O_CREAT_WRONLY_TRUNC, 03101
+
+.equ WRITE_ONLY_TRUNC, 03101
 
 .global _start
 
