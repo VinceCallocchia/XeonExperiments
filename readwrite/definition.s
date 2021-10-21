@@ -1,9 +1,9 @@
 # system call numbers
-.equ SYS_EXIT, 60
 .equ SYS_READ, 0
 .equ SYS_WRITE, 1
 .equ SYS_OPEN, 2
 .equ SYS_CLOSE, 3
+.equ SYS_EXIT, 60
 
 # standard file descriptors
 .equ STDIN, 0
