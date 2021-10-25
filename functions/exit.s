@@ -1,3 +1,5 @@
+# Successfully Exits.
+
 .section .data
 
 .equ EXIT_SUCCESS, 0
