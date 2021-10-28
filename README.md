@@ -6,11 +6,13 @@ This repository is a collection of various test files for my Intel Xeon E5-2697 
 
 ## Contents
 
-[Functions](/functions/) - Recusrive functions to test runtime & calculation subroutines.
+[Functions](/functions/) - Recursive functions to test runtime & calculation subroutines.
 
 [File System](/filesystem/) - File creation and manipulation within the Linux environment.
 
-[Read Write](/readwrite/) - Reading and writing simple reccords using Linux Kernel.
+[Read Write](/readwrite/) - Reading and writing simple records using the Linux kernel.
+
+[Shared Libraries](/sharedlib/) - Basic testing of static and dynamic linking.
 
 
 ## Specifications
