@@ -14,6 +14,8 @@ This repository is a collection of various test files for my Intel Xeon E5-2697 
 
 [Shared Libraries](/sharedlib/) - Basic testing of static and dynamic linking.
 
+[Memory Managment](/memalloc/) - Basic demo of memory management by allocating and deallocating memory as requested.
+
 
 ## Specifications
 
