@@ -1,21 +1,26 @@
 # Overview
 
-This repository is a collection of various test files for my Intel Xeon E5-2697 v2 processor. This project tests the upgraded CPU capabilities of a Mac Pro 6.1 ,running Arch Linux, from the ground up.
+This repository is a collection of various test and experimental files for my Intel Xeon E5-2697 v2 processor. This project tests the upgraded CPU capabilities of a Mac Pro 6.1 ,running Arch Linux with experimental code used for research purposes.
 
 ![12-core Intel Xeon Processor](/images/12-core_Intel_Xeon_Processor.png)
 
 ## Contents
 
-[Functions](/functions/) - Recursive functions to test runtime & calculation subroutines.
+[Initialization](/initialization) - Beggining testing directory for proper system setup.
 
-[File System](/filesystem/) - File creation and manipulation within the Linux environment.
+----->  [Functions](/initialization/functions/) - Recursive functions to test runtime & calculation subroutines.
 
-[Read Write](/readwrite/) - Reading and writing simple records using the Linux kernel.
+----->  [File System](/initialization/filesystem/) - File creation and manipulation within the Linux environment.
 
-[Shared Libraries](/sharedlib/) - Basic testing of static and dynamic linking.
+----->  [Read Write](/initialization/readwrite/) - Reading and writing simple records using the Linux kernel.   
 
-[Memory Managment](/memalloc/) - Basic demo of memory management by allocating and deallocating memory as requested.
+----->  [Shared Libraries](/initialization/sharedlib/) - Basic testing of static and dynamic linking.
 
+----->  [Memory Managment](/initialization/memalloc/) - Basic demo of memory management by allocating and deallocating memory as requested.
+
+[Exploitation](/exploitation/) - Experimental directory containing basic exploits.
+
+----->  [Buffer Overflows](/exploitation/bufferoverflow/) - Demonstration of various buffer overflow vulnerabilities.
 
 ## Specifications
 
