@@ -6,7 +6,7 @@ This repository is a collection of various test and experimental files for my In
 
 ## Contents
 
-**[Initialization]**(/initialization) - Beggining testing directory for proper system setup.
+[Initialization](/initialization) - Beggining testing directory for proper system setup.
 
 - [Functions](/initialization/functions/) - Recursive functions to test runtime & calculation subroutines.
 
@@ -18,7 +18,7 @@ This repository is a collection of various test and experimental files for my In
 
 - [Memory Managment](/initialization/memalloc/) - Basic demo of memory management by allocating and deallocating memory as requested.
 
-**[Exploitation]**(/exploitation/) - Experimental directory containing basic exploits.
+[Exploitation](/exploitation/) - Experimental directory containing basic exploits.
 
 - [Buffer Overflows](/exploitation/bufferoverflow/) - Demonstration of various buffer overflow vulnerabilities.
         
