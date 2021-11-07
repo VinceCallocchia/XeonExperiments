@@ -8,21 +8,21 @@ This repository is a collection of various test and experimental files for my In
 
 **[Initialization]**(/initialization) - Beggining testing directory for proper system setup.
 
-        [Functions](/initialization/functions/) - Recursive functions to test runtime & calculation subroutines.
+- [Functions](/initialization/functions/) - Recursive functions to test runtime & calculation subroutines.
 
-        [File System](/initialization/filesystem/) - File creation and manipulation within the Linux environment.
+- [File System](/initialization/filesystem/) - File creation and manipulation within the Linux environment.
 
-        [Read Write](/initialization/readwrite/) - Reading and writing simple records using the Linux kernel.   
+- [Read Write](/initialization/readwrite/) - Reading and writing simple records using the Linux kernel.   
 
-        [Shared Libraries](/initialization/sharedlib/) - Basic testing of static and dynamic linking.
+- [Shared Libraries](/initialization/sharedlib/) - Basic testing of static and dynamic linking.
 
-        [Memory Managment](/initialization/memalloc/) - Basic demo of memory management by allocating and deallocating memory as requested.
+- [Memory Managment](/initialization/memalloc/) - Basic demo of memory management by allocating and deallocating memory as requested.
 
 **[Exploitation]**(/exploitation/) - Experimental directory containing basic exploits.
 
-        [Buffer Overflows](/exploitation/bufferoverflow/) - Demonstration of various buffer overflow vulnerabilities.
+- [Buffer Overflows](/exploitation/bufferoverflow/) - Demonstration of various buffer overflow vulnerabilities.
         
-        Stack Based Overflows](/exploitation/stackoverflow/) - Experiment with authentication vulnerabilities through stack manipulation.
+- [Stack Based Overflows](/exploitation/stackoverflow/) - Experiment with authentication vulnerabilities through stack manipulation.
 
 ## Specifications
 
