@@ -34,7 +34,7 @@ begin_write_to_file:
     mov $0, %rdx
 
 count_characters_loop:
-    cmpb $0, (%rsi,%rdx,1)
+    cmp $0, (%rsi,%rdx,1)
     je end_write_to_file
     inc %rdx
     jmp count_characters_loop
